@@ -572,7 +572,7 @@ export default function Settings() {
       </div>
 
       {/* Buttons at the end */}
-      <div className="p-4 border-t border-gray-200 flex justify-end gap-4">
+      <div className="p-4 border-gray-200 flex justify-end gap-4">
         <button className="px-6 py-2 border border-[#00B09B] text-[#00B09B] rounded-md hover:bg-[#00B09B] hover:text-white transition-colors">
           Cancel
         </button>

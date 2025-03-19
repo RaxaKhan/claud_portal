@@ -72,7 +72,7 @@ const DashboardItems: SidebarItem[] = [
       },
       {
         title: "Email Reports",
-        link: "/email-reports",
+        link: "/reports/email-reports",
         icon: "/icons/user.svg",
       },
       {
